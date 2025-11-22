@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 
-model = joblib.load('/mnt/data/model.pkl')
+model = joblib.load('artifacts/model.pkl')
 
 st.title("🌍 EcoScan - Carbon Footprint Estimator")
 st.write("Enter your lifestyle details to estimate your carbon footprint.")
