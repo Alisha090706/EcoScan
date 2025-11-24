@@ -75,9 +75,11 @@ Multiple models were evaluated.
 ❌ Decision Tree & KNN performed poorly due to overfitting/underfitting.
 
 ---
+## Deployment Link
+- [App](https://ecoscan-dzszdgfcxjh2umpvpcrpxx.streamlit.app/)
 
 ## Authors
 - Alisha Kapoor (Model Training) [Github](https://github.com/Alisha090706)
 - Bhawya Kumari (EDA & Feature Engineering) [Github](https://github.com/Bhawya2531)
-- Anushka Dixit (Flask Integration) [Github](https://github.com/AnushkaDixit9920)
+- Anushka Dixit (Flask & Streamlit Integration) [Github](https://github.com/AnushkaDixit9920)
 
